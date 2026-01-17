@@ -1,20 +1,20 @@
 # Test Plan
 
 ## 1. Introduction
-This document describes the test plan for manual testing of a public web application.
+This document describes the test plan for manual testing of the Amazon web application.
 
 ## 2. Objective
-The objective of this testing is to verify that the main functionalities of the application work correctly and meet the expected requirements.
+The objective of this testing is to verify that the main functionalities of the Amazon website work correctly and provide a good user experience.
 
-## 3. Scope
-### In Scope
-- Functional testing
-- Smoke testing
-- Regression testing
-- Exploratory testing
-- UI testing
+##3-  In Scope
+- Login and authentication
+- Product search
+- Product details page
+- Add to cart functionality
+- UI validation
 
 ### Out of Scope
+- Payment processing
 - Performance testing
 - Security testing
 - Automation testing
