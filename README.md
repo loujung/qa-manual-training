@@ -58,3 +58,25 @@ I am currently studying Quality Assurance (QA) and building my skills through ha
 My focus is on entry-level QA opportunities, especially in international and remote environments.
 
 📌 This repository represents my learning journey and practical experience in QA.
+
+---
+
+## 🧪 Tested Application
+- Amazon (Web)
+
+## 📌 Test Coverage
+- Search functionality
+- Product availability
+- Product details page
+- Add to cart
+- Remove item from cart
+- UI validation
+
+## 🧫 Test Artifacts
+- Test Plan
+- Test Cases
+- Bug Reports
+
+## 🚀 Project Progress
+This project is actively maintained and updated as part of my QA learning journey.
+
