@@ -22,3 +22,24 @@
 **Severity:** Minor  
 **Priority:** Low
 
+## BUG-002 — Search is triggered with empty input
+
+**Environment:**
+- Browser: Google Chrome
+- OS: Windows
+- Device: Desktop
+
+**Steps to Reproduce:**
+1. Open Amazon homepage
+2. Leave search field empty
+3. Click search button
+
+**Expected Result:**
+- Search should not be triggered
+
+**Actual Result:**
+- Search results page is displayed
+
+**Severity:** Minor  
+**Priority:** Low
+
